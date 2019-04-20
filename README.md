@@ -8,6 +8,8 @@ To run graphframes in databricks:
 2. Create library and attached jar file to working cluster in databricks, https://docs.databricks.com/user-guide/libraries.html#create-a-library
 
 Frequent pattern mining.ipynb: Frequent pattern mining of trip data using ml package
+
 Graph Model.ipynb: Graph analysis of trip data using graphframes package
+
 K-means Clustering.ipynb: K-means clustering of data subsets using ml package
 
